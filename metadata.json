@@ -1,0 +1,8 @@
+{
+  "name": "CYRA: Khmer Skin Care",
+  "description": "Premium Italian-Khmer skin care e-commerce platform with AI Skin Doctor analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
